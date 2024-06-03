@@ -4,7 +4,7 @@ Welcome to WinBig, your ultimate destination for online gaming excitement! With 
 ![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ## Table of Contents
-[Features](#features) | [Deployment](#deployment) | [Technologies](#technologies) | [Usage](#usage) | [Credits](#credits) | [Credits](#credits) | [Contributions](#contributions) | [License](#license) | [Questions](#questions)
+[Features](#features) | [Deployment](#deployment) | [Technologies](#technologies) | [Usage](#usage) | [Credits](#credits) | [Contributions](#contributions) | [License](#license) | [Questions](#questions)
 
 ## Visuals
 <img src="./public/assets/images/site2.png" >
